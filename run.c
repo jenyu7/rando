@@ -49,4 +49,5 @@ int main()
     printf("\trandom %d: %d\n", i, copy[i]);
   }
 
+  return 0;
 }
